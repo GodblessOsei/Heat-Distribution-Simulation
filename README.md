@@ -11,7 +11,7 @@ This C++ program simulates the thermal distribution on a thin metal plate using 
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
