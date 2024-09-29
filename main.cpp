@@ -1,10 +1,4 @@
-/*********************************************************
- Author: Godbless Mensah Osei
- netID: gmo6996
- Nnumber: N1756585
- ___________________________________________________
- Assignment 2 - Computer Programming for Engineers ___________________________________________________
- The goal of this assignment is to develop a software that stimulates the thermal distribution in a thin metal plate in a form of a grid with unknown dimensions. The software should present the user with options to:(1) Create the dynamic 2D grid (2) Set initial side temperature values for the grid, (3) Stimulate the grid at a specific point, (4) calculate the thermal distribution based on the specific stimulation and initial conditions (and save the results in an image file), (5) Print the thermal grid on the screen, or (6) Exit the program.
+/*The goal of this software is to  stimulate the thermal distribution in a thin metal plate in a form of a grid with unknown dimensions. The software should present the user with options to:(1) Create the dynamic 2D grid (2) Set initial side temperature values for the grid, (3) Stimulate the grid at a specific point, (4) calculate the thermal distribution based on the specific stimulation and initial conditions (and save the results in an image file), (5) Print the thermal grid on the screen, or (6) Exit the program.
  ***********************************************************/
 
 #include <iostream> //for input and output
