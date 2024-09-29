@@ -46,21 +46,13 @@ To run the program, you will need:
 ### Installation Steps
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/thermal-distribution-simulation.git
-    cd thermal-distribution-simulation
-    ```
+   
 
 2. Compile the program using the following command:
-    ```bash
-    g++ -o thermal_simulator main.cpp Bitmap_Helper.h Functions.h
-    ```
+
 
 3. Run the program:
-    ```bash
-    ./thermal_simulator
-    ```
-
+  
 ## Usage
 
 Upon running the program, the user will be presented with an interactive menu that allows them to perform various operations on the thermal grid.
